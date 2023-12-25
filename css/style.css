@@ -41,6 +41,7 @@ body {
 /*burger-start*/
 
 .burger-menu {
+    margin-bottom: 30px;
     display: none;
 }
 
